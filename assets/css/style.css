@@ -1,0 +1,25 @@
+body{
+    background-image: url("../../assets/images/background.jpeg");
+    background-size: contain;
+    height: 150px;
+    font-style: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	  text-align: center;
+}
+
+.container {
+  background: white;
+  position: absolute;
+  width: 60%;
+  height: 45%;
+  margin: 100px 300px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 20px;
+  padding: 20px;
+  background-color:grey;
+}
