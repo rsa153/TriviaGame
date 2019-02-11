@@ -9,3 +9,5 @@ To start: To start the game, click on the start button then answer the multiple 
 ### Application Overview
 
 Players will be presented one multiple choice question at a time after they click the start button. The player will have a limited amount of time to answer each question of the quiz. If the player selects the correct answer, there is a screen that appears that congratulates them for choosing the right option. If the player runs out of time, the player is notified that their time is up and the correct answer is displayed to them. If the player chooses the wrong answer, the player is notifgied that they selected the wrong answer and will then be provided the correct answer. Then next question in the quiz is displayed to the player without any player input until all of the questions have been answered. There are 9 questions in this quiz. On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game.
+
+To interact with this activity, please visit: https://rsa153.github.io/TriviaGame/
