@@ -1,4 +1,4 @@
-# TriviaGame
+# Trivia Game
 
 ### About
 This is an interactive trivia game built for web browsers using Javascript, CSS, and HTML. jQuery is used to manipulate the HTML. 
